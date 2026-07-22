@@ -1,7 +1,7 @@
 # Tutoring Services
 <br> 
 
-## <p style="font-variant: small-caps;">Background</p>
+## BACKGROUND
 
 ### Education History
 
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-## Subjects Offered
+## SUBJECTS OFFERED
 
 * Mathematics (Math 6, Math 7, Pre-Algebra, Algebra I, Geometry, Algebra II, Trigonometry, Precalculus, Calculus I)
 * English (Reading)
@@ -33,13 +33,14 @@ N.B. If your subject of interest is not listed above, please inquire using the [
 <br>
 <br>
 
-## Rate
+## RATE
 
 * Overall $75-120/hour depending on exact services and mode
 <br>
 <br>
+<br>
 
-## Contact
+## CONTACT
 
 * [Inquiry Form](https://forms.gle/o6eoyh9jLhDVupT49) - *Please use this form if you have clarification questions or would like to schedule a call to answer questions.*
 * [Tutoring Request Form](https://forms.gle/B7nPjUd3jYMAcdGz9) - *Please use this form if you would like to engage services.*
