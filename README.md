@@ -1,6 +1,7 @@
 # Tutoring Services
+<br> 
 
-## <small>BACKGROUND</small>
+## <p style="font-variant: small-caps;">Background</p>
 
 ### Education History
 
@@ -19,6 +20,7 @@
 *Additionally have experience as a software engineer, content specialist, technical writer, scrum master, and engagement and outreach manager in tech*
 <br>
 <br>
+<br>
 
 ## Subjects Offered
 
@@ -29,10 +31,12 @@
 N.B. If your subject of interest is not listed above, please inquire using the [Preliminary Questions]() form. However, please note that Probability and Statistics, or any variation of this course, is not offered.
 <br>
 <br>
+<br>
 
 ## Rate
 
 * Overall $75-120/hour depending on exact services and mode
+<br>
 <br>
 
 ## Contact
