@@ -7,7 +7,7 @@
 
 * Bachelors of Science in Mathematics, Minor in Creative Writing, The George Washington University (Washington, D.C.)
 
-*Masters of Education in Curriculum & Instruction in progress at University of Virginia, School of Education and Human Development*
+*Masters of Education in Curriculum & Instruction in progress at University of Virginia, School of Education and Human Development (Charlottesville, VA)*
 <br>
 
 ### Education Roles
