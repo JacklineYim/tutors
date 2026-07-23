@@ -1,5 +1,4 @@
 # At a Glance
-<br> 
 
 ## [BACKGROUND](/tutors/background/)
 
