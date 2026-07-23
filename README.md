@@ -20,7 +20,6 @@
 *Additionally have experience as a software engineer, content specialist, technical writer, scrum master, and engagement and outreach manager in tech*
 <br>
 <br>
-<br>
 
 ## SUBJECTS OFFERED
 
@@ -28,15 +27,13 @@
 * English (Reading)
 * English (writing)
 
-N.B. If your subject of interest is not listed above, please inquire using the [Preliminary Questions]() form. However, please note that Probability and Statistics, or any variation of this course, is not offered.
-<br>
+N.B. If your subject of interest is not listed above, please inquire using the [Inquiry Form](https://forms.gle/nBvtBcwXbPwvLrCA9). However, please note that Probability and Statistics, or any variation of this course, is not offered.
 <br>
 <br>
 
 ## RATE
 
 * Overall $75-120/hour depending on exact services and mode
-<br>
 <br>
 <br>
 
