@@ -17,23 +17,23 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td>2021 - 2023</td>
+    <td>2021&mdash;2023</td>
     <td><i>Writing Coach & Workshop Facilitator</i></td>
   </tr>
   <tr>
-    <td>2020 - 2021, 2024 - 2026</td>
+    <td>2020&mdash;2021, 2024&mdash;2026</td>
     <td><i>Loudoun County Public Schools, High School Teacher & Scholastic Bowl Coach, Mathematics & Related</i></td>
   </tr>
   <tr>
-    <td>2017 - 2019, 2026 - present</td>
+    <td>2017 &mdash; 2019, 2026&mdash;present</td>
     <td><i>Northern Virginia Community College, Adjunct Faculty, Developmental Math</i></td>
   </tr>
   <tr>
-    <td>2013 - 2017</td>
+    <td>2013&mdash;2017</td>
     <td><i>Northern Virginia Community College Loudoun Master Math Lab, Trainer Instructor</i></td>
   </tr>
   <tr>
-    <td>2004 - 2014, 2026 - present</td>
+    <td>2004&mdash;2014, 2026 &mdash; present</td>
     <td><i>Private tutor and instructor for Arithmetic, Pre-Algebra, Algebra, Geometry, Pre-Calculus, English (spoken), English (reading comprehension, writing), History, Biology, Chemistry, SATs, and entrance exam for Thomas Jefferson High School for Science and Technology</i></td>
   </tr>
 </table>
