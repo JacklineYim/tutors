@@ -1,7 +1,7 @@
 # AT A GLANCE
 <br> 
 
-## [BACKGROUND](/background/)
+## [BACKGROUND](/tutors/background/)
 
 ### Education History
 
