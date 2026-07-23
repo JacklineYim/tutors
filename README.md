@@ -14,22 +14,30 @@
 
 <table>
   <tr>
-    <th style="width: 20%">Project Name</th>
-    <th style="width: 50%">Description</th>
-    <th style="width: 30%">Status</th>
+    <th style="width: 500%">Years</th>
+    <th style="width: 150%">Description</th>
   </tr>
   <tr>
-    <td>Alpha</td>
-    <td>A short description.</td>
-    <td>Completed</td>
+    <td>2021 - 2023</td>
+    <td><i>Writing Coach & Workshop Facilitator</i></td>
+  </tr>
+  <tr>
+    <td>2020 - 2021, 2024 - 2026</td>
+    <td><i>Loudoun County Public Schools, High School Teacher & Scholastic Bowl Coach, Mathematics & Related</i></td>
+  </tr>
+  <tr>
+    <td>2017 - 2019, 2026 - present</td>
+    <td><i>Northern Virginia Community College, Adjunct Faculty, Developmental Math</i></td>
+  </tr>
+  <tr>
+    <td>2013 - 2017</td>
+    <td><i>Northern Virginia Community College Loudoun Master Math Lab, Trainer Instructor</i></td>
+  </tr>
+  <tr>
+    <td>2004 - 2014, 2026 - present</td>
+    <td><i>Private tutor and instructor for Arithmetic, Pre-Algebra, Algebra, Geometry, Pre-Calculus, English (spoken), English (reading comprehension, writing), History, Biology, Chemistry, SATs, and entrance exam for Thomas Jefferson High School for Science and Technology</i></td>
   </tr>
 </table>
-
-* 2020 - 2021, 2024 - 2026: *Loudoun County Public Schools, High School, Mathematics Teacher*
-* 2021 - 2023: *Writing Coach, Workshop Facilitator*
-* 2017 - 2019, 2026 - present: *Northern Virginia Community College, Adjunct Faculty, Developmental Math*
-* 2013 - 2017: *Northern Virginia Community College, Loudoun Master Math Lab, Trainer Instructor*
-* 2004 - 2014, 2026 - present: *Private tutor and instructor for Arithmetic, Pre-Algebra, Algebra, Geometry, Pre-Calculus, English (spoken), English (reading comprehension, writing), History, Biology, Chemistry, SATs, and entrance exam for Thomas Jefferson High School for Science and Technology*
 
 *Additionally have experience as a software engineer, content specialist, technical writer, scrum master, and engagement and outreach manager in tech*
 <br>
