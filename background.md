@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Background
-permalink: "/tutors/background/"
+permalink: '/background/'
 ---
 
 # Further Context
