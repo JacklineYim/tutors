@@ -40,9 +40,4 @@ N.B. If your subject of interest is not listed above, please inquire using the [
 <br>
 <br>
 
-## CONTACT
-
-* [Inquiry Form](https://forms.gle/o6eoyh9jLhDVupT49) - *Please use this form if you have clarification questions or would like to schedule a call to answer questions.*
-* [Tutoring Request Form](https://forms.gle/B7nPjUd3jYMAcdGz9) - *Please use this form if you would like to engage services.*
-
 
