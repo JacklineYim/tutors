@@ -14,8 +14,8 @@
 
 <table>
   <tr>
-    <th style="width: 500%">Years</th>
-    <th style="width: 150%">Description</th>
+    <th>Years</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>2021 - 2023</td>
