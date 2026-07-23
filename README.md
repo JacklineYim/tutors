@@ -11,6 +11,20 @@
 <br>
 
 ### Education Roles
+
+<table>
+  <tr>
+    <th style="width: 20%">Project Name</th>
+    <th style="width: 50%">Description</th>
+    <th style="width: 30%">Status</th>
+  </tr>
+  <tr>
+    <td>Alpha</td>
+    <td>A short description.</td>
+    <td>Completed</td>
+  </tr>
+</table>
+
 * 2020 - 2021, 2024 - 2026: *Loudoun County Public Schools, High School, Mathematics Teacher*
 * 2021 - 2023: *Writing Coach, Workshop Facilitator*
 * 2017 - 2019, 2026 - present: *Northern Virginia Community College, Adjunct Faculty, Developmental Math*
