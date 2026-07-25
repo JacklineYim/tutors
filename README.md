@@ -47,15 +47,13 @@
 * Mathematics (Math 6, Math 7, Pre-Algebra, Algebra I, Geometry, Algebra II, Trigonometry, Precalculus, Calculus I)
 * English (Reading)
 * English (writing)
+* English (Editing, Workshop)
 
 N.B. If your subject of interest is not listed above, please inquire using the [Inquiry Form](https://forms.gle/nBvtBcwXbPwvLrCA9). However, please note that Probability and Statistics, or any variation of this course, is not offered.
 <br>
 <br>
 
-## RATE
+## RATE OVERVIEW
 
-* Overall $75-120/hour depending on exact services and mode
-<br>
-<br>
-
-
+* $60-120/hour depending on exact services and mode
+* Minimum $75-80/hour for Mathematics
